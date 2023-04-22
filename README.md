@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Avishkar 
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m Avishkar Kanade
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
 - 📫 avishkark27@gmail.com
 
