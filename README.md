@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avishkar 
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning rstudio
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning SQL
 - 📫 avishkark27@gmail.com
 
 <!---
