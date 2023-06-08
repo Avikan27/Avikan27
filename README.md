@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Avishkar Kanade
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
+- 👀 I’m a masters student at Hochschule Fresenius majoring in data science and machine learning
 - 📫 avishkark27@gmail.com
 
 <!---
