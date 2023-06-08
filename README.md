@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/avishkarkanade](datascienceportfol.io/avishkarkanade)
+- 👨‍💻 All of my projects are available at https://www.datascienceportfol.io/avishkarkanade
 
 - 📫 How to reach me **avishkark27@gmail.com**
 
